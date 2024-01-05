@@ -1,9 +1,8 @@
-#Actualizacion de Path V1.3
+#Actualizacion de Path V1.6
 
--Nuevo sistema de Notificacion de Paths
--Arreglo en el inicio
--Mejora en descarga de archivos
--Aumento de Saturacion en TitleState
--Disminucion de Brillo en la pantalla
+-Umento de Carga en Instalacion de Paths
+-Eliminacion de mucha saturacion en plugin
+-Aumento de Sonido Arreglado
+-Eliminacion de Instalacion Erronea
 
-[Arreglo de 17 Errores]
+[Arreglo de 10 Errores]
