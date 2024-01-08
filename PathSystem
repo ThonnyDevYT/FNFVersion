@@ -1,8 +1,6 @@
-#Actualizacion de Path V1.6
+Actualizacion de Path 1.7
 
--Umento de Carga en Instalacion de Paths
--Eliminacion de mucha saturacion en plugin
--Aumento de Sonido Arreglado
--Eliminacion de Instalacion Erronea
+-Limitador de Sprites por segundo con un limite igual a los fps por pantalla
+-Modificacion de Actualizacion de states
 
-[Arreglo de 10 Errores]
+Solucion de [10 errores]
