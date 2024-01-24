@@ -1,6 +1,7 @@
-Actualizacion de Path 1.7
+Actualizacion de Path 1.8
 
--Limitador de Sprites por segundo con un limite igual a los fps por pantalla
--Modificacion de Actualizacion de states
+-Eliminacion de error en Crash de Inicio
+-Optimizado las flechas del FreePlay
+-Eliminacion de errores de fondos
 
-Solucion de [10 errores]
+Solucion de [6 errores]
