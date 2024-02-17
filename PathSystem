@@ -1,12 +1,20 @@
-Actualizacion de Path 2.0(ғɪᴀɴʟ | ᴇxᴛʀᴀ 3.0) 
+Actualizacion de Path 2.0(ғɪᴀɴʟ | ᴇxᴛʀᴀ 4.0) 
 
-• ᴘᴜʟɪᴅᴏ ᴅᴇ ғᴏʀᴍᴀ ᴍᴇᴊᴏʀᴀᴅᴀ ᴇɴ ʟᴀ ᴄᴏɴᴇxɪᴏ́ɴ ᴇɴᴛʀᴇ sᴇʀᴠɪᴅᴏʀᴇs. 
-• ᴍᴀɴᴛᴇɴɪᴍɪᴇɴᴛᴏ ᴛʀᴀs ᴘᴀᴜsᴀ ᴅᴇ ᴘʀᴏᴅᴜᴄᴄɪᴏ́ɴ ʏ sᴇʀᴠɪᴄɪᴏs. 
-• ᴍᴀxɪᴍɪᴢᴀᴄɪᴏ́ɴ ᴅᴇ ʟɪ́ᴍɪᴛᴇ ᴇɴ ᴀʀᴄʜɪᴠᴏs ᴘᴏʀ ʀᴇᴅ
+• Aumentó de solicitudes por sesion de Juego. 
+• Alineamiento de solicitudes HTTPS. 
+• Nuevo sistema "URLKEEPER"
+• Mejora en sistema de Descarga de Paths de Forma continua. 
+• Nuevos Túneles de Emergencia. 
+• Eliminación de solicitudes erróneas através de lua. 
+• Cambio opcional entre las fuentes de HTTPS o URLLoader
+• más funciones de uso de Hace como puente de carga. 
+• Aumentó de tiempos de carga entre archivo y guardado y descarga
+• Eliminación de objetos XML de HTTPS/URLLoader.
+• Lua system versión antigua en funcionamiento. 
 
-[7 ᴇʀʀᴏʀ sᴏʟᴜᴄɪᴏɴᴀᴅᴏ]
+[8 ᴇʀʀᴏʀ sᴏʟᴜᴄɪᴏɴᴀᴅᴏ - 2 Errores Detectados]
 
-perfeccionamiento de más mejoras en el sistema de servidores en descargas por segundo y mantenimiento del mismo por pausa de Producción 
+Mejoras y pulidos en las conexiones entre el servidor y las líneas de bucle de HTTPS
 
 Más Información en Servidor de ᴅɪsᴄᴏʀᴅ
 
