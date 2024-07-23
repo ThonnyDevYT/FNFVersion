@@ -1,0 +1,70 @@
+Tip: Regularly back up your data to keep it safe.
+Advice: Use strong passwords and change them periodically.
+Tip: Keep your apps always updated for better security.
+Advice: Enable two-factor authentication whenever possible.
+Tip: Do not share personal information on public networks.
+Advice: Be cautious of suspicious emails and do not click on unknown links.
+Tip: Use a password manager to handle your credentials securely.
+Advice: Always verify the legitimacy of websites before entering personal information.
+Tip: Configure your firewall to enhance your network security.
+Advice: Learn to identify phishing attempts and report them.
+Tip: Use antivirus software and keep it updated.
+Advice: Download apps only from official sources.
+Tip: Enable automatic updates to avoid missing security improvements.
+Advice: Limit access to your personal information on social networks.
+Tip: Run regular system scans to check for malware.
+Advice: Use a VPN when connecting to public Wi-Fi networks.
+Tip: Lock your device when not in use.
+Advice: Keep track of devices connected to your account.
+Tip: Stay informed about the latest security threats.
+Advice: Avoid installing pirated software as it may contain malware.
+Tip: Change default passwords on your devices.
+Advice: Review app permissions on your device.
+Tip: Turn off Bluetooth when not needed to avoid unwanted connections.
+Advice: Check privacy policies before accepting terms and conditions.
+Tip: Periodically audit the security of your online accounts.
+Advice: Protect your device with a secure access code.
+Tip: Don’t use the same password for multiple accounts.
+Advice: Ensure your Wi-Fi network is encrypted with WPA3.
+Tip: Delete accounts you no longer use to reduce risks.
+Advice: Check for security updates on your operating system.
+Tip: Set security questions that only you can answer.
+Advice: Be cautious when downloading attachments from untrusted sources.
+Tip: Set security alerts for your financial accounts.
+Advice: Limit physical access to your devices.
+Tip: Use encryption to protect stored sensitive information.
+Advice: Avoid using public Wi-Fi networks for banking transactions.
+Tip: Learn how to protect yourself from ransomware.
+Advice: Adjust privacy settings on your devices.
+Tip: Regularly review login activities for your accounts.
+Advice: Use app authenticators instead of SMS for more security.
+Tip: Check your account activity logs for unauthorized access.
+Advice: Don’t save passwords in your browser.
+Tip: Set up biometric login if your device allows it.
+Advice: Be informed about the privacy policies of the apps you use.
+Tip: Disable automatic login on shared devices.
+Advice: Stay informed about new cyber security threats.
+Tip: Use different authentication methods to increase security.
+Advice: Remember to log out of important accounts when not in use.
+Tip: Keep an inventory of your internet-connected devices.
+Advice: Educate your family members about safe internet practices.
+Tip: Perform security analyses before connecting to new networks.
+Advice: Use unique usernames that are not linked to your personal data.
+Tip: Review access and security policies for your smart devices.
+Advice: Learn how to report cybercrimes.
+Tip: Store your critical data on external storage devices.
+Advice: Learn to identify signs of malware on your devices.
+Tip: Set up your devices to wipe data remotely if necessary.
+Advice: Verify app authenticity before installing them.
+Tip: Do not connect unknown USB devices to your computer.
+Advice: Check for firmware updates on your devices.
+Tip: Use account recovery features in case you forget passwords.
+Advice: Keep your software always updated to protect against vulnerabilities.
+Tip: Turn off the computer when not in use to reduce risks.
+Advice: Read reviews and comments before installing new applications.
+Tip: Set up security policies for your devices.
+Advice: Limit the use of personal information on online forms.
+Tip: Learn about the security features of your operating system.
+Advice: Disable unnecessary features that may pose risks.
+Tip: Participate in online security workshops or courses.
+Advice: Consider using parental protection software to protect younger users.
