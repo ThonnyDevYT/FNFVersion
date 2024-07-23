@@ -1,0 +1,70 @@
+Dica: Faça backups regularmente para proteger seus dados.
+Conselho: Use senhas fortes e altere-as periodicamente.
+Dica: Mantenha seus aplicativos sempre atualizados para maior segurança.
+Conselho: Ative a autenticação em duas etapas sempre que possível.
+Dica: Não compartilhe informações pessoais em redes públicas.
+Conselho: Desconfie de e-mails suspeitos e não clique em links desconhecidos.
+Dica: Use um gerenciador de senhas para gerenciar suas credenciais com segurança.
+Conselho: Sempre verifique a legitimidade dos sites antes de inserir informações pessoais.
+Dica: Configure seu firewall para melhorar a segurança da sua rede.
+Conselho: Aprenda a identificar tentativas de phishing e denunciá-las.
+Dica: Use software antivírus e mantenha-o atualizado.
+Conselho: Baixe aplicativos apenas de fontes oficiais.
+Dica: Ative as atualizações automáticas para não perder melhorias de segurança.
+Conselho: Limite o acesso às suas informações pessoais nas redes sociais.
+Dica: Faça varreduras regulares no seu sistema para detectar malware.
+Conselho: Use uma VPN ao se conectar a redes Wi-Fi públicas.
+Dica: Bloqueie seu dispositivo quando não estiver em uso.
+Conselho: Mantenha um registro dos dispositivos conectados à sua conta.
+Dica: Fique informado sobre as últimas ameaças de segurança.
+Conselho: Não instale software pirata, pois pode conter malware.
+Dica: Altere as senhas padrão dos seus dispositivos.
+Conselho: Revise as permissões dos aplicativos no seu dispositivo.
+Dica: Desative o Bluetooth quando não for necessário para evitar conexões indesejadas.
+Conselho: Consulte as políticas de privacidade antes de aceitar os termos.
+Dica: Realize auditorias de segurança nas suas contas online periodicamente.
+Conselho: Proteja seu dispositivo com um código de acesso seguro.
+Dica: Não use a mesma senha para várias contas.
+Conselho: Certifique-se de que sua rede Wi-Fi está criptografada com WPA3.
+Dica: Exclua contas que você não usa mais para reduzir riscos.
+Conselho: Revise as atualizações de segurança do seu sistema operacional.
+Dica: Defina perguntas de segurança que apenas você possa responder.
+Conselho: Tenha cuidado ao baixar anexos de fontes não confiáveis.
+Dica: Configure alertas de segurança para suas contas financeiras.
+Conselho: Limite o acesso físico aos seus dispositivos.
+Dica: Use criptografia para proteger informações sensíveis armazenadas.
+Conselho: Não use redes Wi-Fi públicas para realizar transações bancárias.
+Dica: Informe-se sobre como se proteger contra ransomware.
+Conselho: Ajuste as configurações de privacidade nos seus dispositivos.
+Dica: Revise regularmente as atividades de login nas suas contas.
+Conselho: Use autenticadores de aplicativos em vez de mensagens SMS para mais segurança.
+Dica: Consulte os registros de atividade da sua conta para detectar acessos não autorizados.
+Conselho: Não salve senhas no seu navegador.
+Dica: Configure o login biométrico se o seu dispositivo permitir.
+Conselho: Informe-se sobre as políticas de privacidade dos aplicativos que você utiliza.
+Dica: Desative o login automático em dispositivos compartilhados.
+Conselho: Mantenha-se informado sobre novas ameaças de segurança cibernética.
+Dica: Use diferentes métodos de autenticação para aumentar a segurança.
+Conselho: Não se esqueça de fazer logout de contas importantes quando não as estiver usando.
+Dica: Mantenha um inventário dos seus dispositivos conectados à internet.
+Conselho: Eduque seus familiares sobre práticas seguras na internet.
+Dica: Faça análises de segurança antes de se conectar a novas redes.
+Conselho: Use nomes de usuário únicos que não estejam associados aos seus dados pessoais.
+Dica: Revise as políticas de acesso e segurança dos seus dispositivos inteligentes.
+Conselho: Informe-se sobre como denunciar crimes cibernéticos.
+Dica: Armazene seus dados críticos em dispositivos de armazenamento externos.
+Conselho: Aprenda a identificar os sinais de malware nos seus dispositivos.
+Dica: Configure seus dispositivos para apagar dados remotamente, se necessário.
+Conselho: Verifique a autenticidade dos aplicativos antes de instalá-los.
+Dica: Não conecte dispositivos USB desconhecidos ao seu computador.
+Conselho: Revise as atualizações de firmware dos seus dispositivos.
+Dica: Use recursos de recuperação de conta caso esqueça senhas.
+Conselho: Mantenha seu software sempre atualizado para se proteger contra vulnerabilidades.
+Dica: Desligue o computador quando não estiver em uso para reduzir riscos.
+Conselho: Leia análises e comentários antes de instalar novos aplicativos.
+Dica: Estabeleça políticas de segurança para seus dispositivos.
+Conselho: Limite o uso de informações pessoais em formulários online.
+Dica: Aprenda sobre os recursos de segurança do seu sistema operacional.
+Conselho: Desative funções desnecessárias que possam representar riscos.
+Dica: Participe de workshops ou cursos de segurança online.
+Conselho: Considere usar software de proteção parental para proteger os mais jovens.
